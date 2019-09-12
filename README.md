@@ -1,0 +1,2 @@
+# circleci
+CircleCIのビルド情報取得APIを実行する為のリポジトリ
